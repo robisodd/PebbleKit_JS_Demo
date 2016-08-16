@@ -1,0 +1,33 @@
+{
+    "author": "robisodd",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebblekit-js-demo",
+    "pebble": {
+        "capabilities": [
+            "location"
+        ],
+        "displayName": "PebbleKit JS Demo",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "command": 2,
+            "count": 3,
+            "message": 1
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "06da5d97-581e-44ce-bf8b-b6d7d7daebf3",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.1.0"
+}
